@@ -10,16 +10,17 @@
 
 header {
 	background-image: url(./img/pattern.png);
+	background-size: 40%;
 	background-repeat: repeat;
 	background-position: top;
 	background-color: rgb(78,160,255);
-	height: 175px;
+	height: 100px;
 }
 
 .logo {
-	max-width: 300px;
+	max-width: 200px;
 	position: relative;
-	bottom: -75px;
+	top: 40px;
 	left: 10px;
 }
 
