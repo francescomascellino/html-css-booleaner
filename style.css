@@ -6,7 +6,15 @@
 
 header {
 	background-image: url(./img/pattern.png);
+	background-repeat: repeat;
+	background-position: top;
+	background-color: rgb(78,160,255);
+	height: 175px;
 }
 
-header > img {
+.logo {
+	max-width: 30%;
+	position: relative;
+	bottom: -75px;
+	left: 10px;
 }
