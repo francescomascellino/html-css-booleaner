@@ -55,6 +55,11 @@ h1 {
 
 /* ARTICLE */
 
+main {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
 .article {
 	margin-top: 20px;
 	margin-bottom: 20px;
