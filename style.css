@@ -1,8 +1,12 @@
+/* CSS RESET */
+
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 }
+
+/* HEADER */
 
 header {
 	background-image: url(./img/pattern.png);
@@ -18,6 +22,8 @@ header {
 	bottom: -75px;
 	left: 10px;
 }
+
+/* TITLE */
 
 .title {
 	margin-top: 20px;
@@ -41,9 +47,13 @@ h1 {
 	font-size: smaller;
 }
 
+/* PICTURES */
+
 .caption {
 	font-size: smaller;
 }
+
+/* ARTICLE */
 
 .article {
 	margin-top: 20px;
@@ -54,6 +64,8 @@ span {
 	background-color: yellow;
 }
 
+/* LIST */
+
 ul {
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -62,6 +74,9 @@ ul {
 ul > li {
 	list-style: circle;
 }
+
+
+/* TABLE */
 
 table {
 	margin-bottom: 10px;
@@ -79,12 +94,14 @@ tbody > tr:nth-of-type(3)
 	background-color: rgb(177,229,242);
 }
 
+/* EXTRAS */
+
 .extrasTitle {
 	color: grey;
 	margin-bottom: 10px;
 }
 
-
+/* VIDEOS */
 
 .video h3 {
 	color: white;
