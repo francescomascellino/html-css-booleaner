@@ -10,7 +10,7 @@
 
 header {
 	background-image: url(./img/pattern.png);
-	background-size: 40%;
+	background-size: 400px, 150px;
 	background-repeat: repeat;
 	background-position: top;
 	background-color: rgb(78,160,255);
