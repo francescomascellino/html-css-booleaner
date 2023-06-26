@@ -13,7 +13,7 @@ header {
 }
 
 .logo {
-	max-width: 30%;
+	max-width: 300px;
 	position: relative;
 	bottom: -75px;
 	left: 10px;
@@ -22,6 +22,10 @@ header {
 .title {
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+h1 {
+	font-size: 36px;
 }
 
 .author {
