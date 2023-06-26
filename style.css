@@ -18,3 +18,21 @@ header {
 	bottom: -75px;
 	left: 10px;
 }
+
+.title {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.author {
+	font-size: large;
+}
+
+.author > a{
+	text-decoration: none;
+	color: rgb(78,160,255);;
+}
+
+.date {
+	font-size: smaller;
+}
