@@ -74,3 +74,17 @@ tbody > tr:nth-of-type(3)
 {
 	background-color: rgb(177,229,242);
 }
+
+.extrasTitle {
+	color: grey;
+	margin-bottom: 10px;
+}
+
+
+
+.video h3 {
+	color: white;
+	position: relative;
+	left: 10px;
+	bottom: 200px;
+}
